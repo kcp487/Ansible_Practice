@@ -6,4 +6,3 @@
     - name: check Ansible Python package
 	pip:
 	  name: ansible
-          virtualenv: ~/challenge1
